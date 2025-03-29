@@ -1,3 +1,6 @@
+//
+//
+//
 // Cotação de moedas do dia.
 
 const USD = 5.76
