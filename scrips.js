@@ -62,12 +62,6 @@ function convertCurrency(amount, price, symbol) {
         let total 
         = String(amount * price).replace(".", ",")
 
-        // Checa se é um numero
-        if (isNaN(total))
-             {
-            return alert("por favor, digite o valor corretamente")
-        }
-        
         // exibe a resultado total
         result.textContent = `${total} Reais` 
 
