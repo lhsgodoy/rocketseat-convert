@@ -5,6 +5,10 @@
 const USD = 5.76
 const EUR = 6.23
 const GBP = 7.46
+const JPY = 0.04
+const CNY = 0.79
+const KRW = 0.0040
+const VEF = 0.0920
 
 // Obtendo os elementos do formulario.
 
